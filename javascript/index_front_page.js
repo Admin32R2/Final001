@@ -8,7 +8,7 @@
     // Check if the input matches the word 'boot' (case-insensitive)
     if (userInput === "Boot") {
         // Redirect to the new page
-        window.location.href = "TextBlankCanvas.html"; // Replace with your desired page URL
+        window.location.href = "../TextBlankCanvas.html"; // Replace with your desired page URL
     }
 });
 
