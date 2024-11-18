@@ -1,15 +1,5 @@
 
-//Nav Bar script
-/* function seetActiveLink(event) {
-    const links = document.querySelectorAll('.top_nav a');//to get all the anchor tags that are eithin the scope of the top nav
-    links.forEach(link=> link.classList.remove('active')); //to remove current active links 
 
-    event.target.classList.add('active'); //add active to the clicked link
-
-  }
-
-  const navLinks = document.querySelectorAll('.top_nav a');
-  navLinks.forEach(link => link.addEventListener('click', seetActiveLink)); */
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 //script for stuff about me
@@ -41,7 +31,6 @@ function toggleActiveLink(event) {
     targetDiv.style.display = 'block';
   }
 
-  
 }
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /* This code checks the navigation buttons and from the divs in which to select to show or hide  */
